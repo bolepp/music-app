@@ -1,0 +1,21 @@
+2018-04-30
+------------------------------------------------------------------------
+vue init webpack music  初始化项目
+
+npm run dev  运行项目
+
+better-scroll：https://ustbhuangyi.github.io/better-scroll/doc/zh-hans
+
+
+2018-05-01
+------------------------------------------------------------------------
+vue-lazyload：图片懒加载
+
+H5手机摇一摇功能
+
+H5浏览器开启摄像头及麦克风功能（在谷歌浏览器Chrome下支持）
+
+lyric-parser 歌词解读
+
+https://github.com/2014874201/vue-music
+
